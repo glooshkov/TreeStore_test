@@ -19,15 +19,12 @@
 ```
 TreeStore_test/
 ├── data_sources/
-│   ├── __init__.py
 │   ├── mock.py
 │   ├── real.py
 ├── tree_store/
-│   ├── __init__.py
 │   ├── time.py
 │   ├── space.py
 ├── tests/
-│   ├── __init__.py
 │   ├── test_tree_store.py
 ├── main.py
 ├── requirements.txt
